@@ -16,6 +16,7 @@ public class NumberDemo {
         System.out.println((byte)-128);
 
         // Advanced topic: Unsigned quantities
+
         System.out.println(Byte.toUnsignedInt((byte)-127));
         
         System.out.println(3.14F); // float literal
@@ -43,7 +44,7 @@ public class NumberDemo {
         System.out.println("----------------------------");
 
         // Roundoff error
-        
+
         System.out.println(2.0 - 1.1);
         
         // Character literals
