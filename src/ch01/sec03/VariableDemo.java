@@ -20,7 +20,6 @@ public class VariableDemo {
         Weekday startDay = Weekday.MON;
         // The following line would cause an error since count has not been initialized
         // System.out.println(count);
-
         System.out.println(startDay);
     }
 }
