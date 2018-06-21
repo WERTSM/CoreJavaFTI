@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9b10a70-f432-4213-a3d5-b957a3ed9914" name="Default" comment="England 1 - 1">
-      <change afterPath="$PROJECT_DIR$/src/ch01/sec03/VariableDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ch01/sec04/ArithmeticDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ch01/sec04/BigNumberDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ch01/sec04/RelationalDemo.java" afterDir="false" />
@@ -18,51 +17,13 @@
       <change afterPath="$PROJECT_DIR$/src/ch01/sec09/ArrayMethodDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ch01/sec09/StaticMethodDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ch01/sec09/VarargsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/sec01/Cal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/sec01/ReferenceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/sec02/CallByValueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/sec02/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/sec02/EmployeeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/sec02/EvilManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/sec03/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/sec03/EmployeeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/sec04/CreditCardForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/sec04/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/sec04/RandomNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/sec04/StaticMethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/sec05/StaticImportDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/sec06/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/sec06/InvoiceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/sec06/Network.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/sec06/NetworkDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec01/DigitSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec01/IntSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec01/IntSequenceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec01/SquareSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec02/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec02/Identified.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec02/IntSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec02/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec03/ButtonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec03/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec03/RunnableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec03/SortDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec04/ButtonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec04/LambdaDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec05/ConstructorReferenceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec05/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec05/MethodReferenceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec06/ImageDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec06/PixelFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec06/RepeatDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec07/ScopeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec08/ComparatorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec08/HigherOrderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec08/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec09/AnonymousClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec09/IntSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/sec09/LocalClassDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,12 +34,43 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="VariableDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ch01/sec03/VariableDemo.java">
+    <leaf>
+      <file leaf-file-name="ArithmeticDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ch01/sec04/ArithmeticDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+            <state relative-caret-position="39">
+              <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BigNumberDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch01/sec04/BigNumberDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RelationalDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch01/sec04/RelationalDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Math.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Math.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="1159" column="22" selection-start-line="1159" selection-start-column="22" selection-end-line="1159" selection-end-column="22" />
+              <folding>
+                <element signature="e#49482#49483#0" expanded="true" />
+                <element signature="e#49527#49528#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -93,8 +85,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/ch01/sec02/NumberDemo.java" />
         <option value="$PROJECT_DIR$/src/ch01/sec03/VariableDemo.java" />
+        <option value="$PROJECT_DIR$/src/ch01/sec02/NumberDemo.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/ch01/sec04/ArithmeticDemo.java" />
       </list>
     </option>
   </component>
@@ -108,9 +102,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="x" value="265" />
+    <option name="y" value="-16" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -149,7 +144,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -168,7 +163,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VariableDemo">
+  <component name="RunManager" selected="Application.ArithmeticDemo">
+    <configuration name="ArithmeticDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch01.sec04.ArithmeticDemo" />
+      <module name="CoreJavaFTI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch01.sec04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch01.sec01.HelloWorld" />
       <module name="CoreJavaFTI" />
@@ -178,13 +183,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="CoreJavaFTI" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
     </configuration>
     <configuration name="MethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch01.sec01.MethodDemo" />
@@ -217,14 +215,15 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.MethodDemo" />
       <item itemvalue="Application.NumberDemo" />
       <item itemvalue="Application.VariableDemo" />
+      <item itemvalue="Application.ArithmeticDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArithmeticDemo" />
         <item itemvalue="Application.VariableDemo" />
         <item itemvalue="Application.NumberDemo" />
         <item itemvalue="Application.MethodDemo" />
@@ -244,7 +243,9 @@
       <updated>1529352499997</updated>
       <workItem from="1529352511212" duration="2398000" />
       <workItem from="1529423681005" duration="2419000" />
-      <workItem from="1529494544709" duration="609000" />
+      <workItem from="1529494544709" duration="2560000" />
+      <workItem from="1529497436353" duration="224000" />
+      <workItem from="1529612702285" duration="1114000" />
     </task>
     <task id="LOCAL-00001" summary="Русский поддерживается?">
       <created>1529353101752</created>
@@ -274,11 +275,46 @@
       <option name="project" value="LOCAL" />
       <updated>1529425744011</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="England 1 - 3">
+      <created>1529495295242</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1529495295242</updated>
+    </task>
+    <task id="LOCAL-00006" summary="chapter 1, section 3">
+      <created>1529495908195</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1529495908195</updated>
+    </task>
+    <task id="LOCAL-00007" summary="chapter 1, section 2.">
+      <created>1529496002528</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1529496002528</updated>
+    </task>
+    <task id="LOCAL-00008" summary=".gitignore">
+      <created>1529496414340</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1529496414340</updated>
+    </task>
+    <task id="LOCAL-00009" summary=".gitignore">
+      <created>1529497691313</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1529497691313</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5426000" />
+    <option name="totallyTimeSpent" value="8715000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -321,12 +357,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Русский поддерживается?" />
-    <MESSAGE value="England 1 - 1" />
     <MESSAGE value="chapter 1, section 1." />
     <MESSAGE value="England 1 - 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="England 1 - 2" />
+    <MESSAGE value="England 1 - 3" />
+    <MESSAGE value="chapter 1, section 3" />
+    <MESSAGE value="chapter 1, section 2." />
+    <MESSAGE value=".gitignore" />
+    <MESSAGE value="England 1 - 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="England 1 - 1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ch01/sec03/VariableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch01/sec01/MethodDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -338,10 +385,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8653">
           <caret line="509" column="31" selection-start-line="509" selection-start-column="25" selection-end-line="509" selection-end-column="31" />
-          <folding>
-            <element signature="e#17893#17894#0" expanded="true" />
-            <element signature="e#17932#17933#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -349,10 +392,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9690">
           <caret line="570" column="49" lean-forward="true" selection-start-line="570" selection-start-column="49" selection-end-line="570" selection-end-column="55" />
-          <folding>
-            <element signature="e#23211#23212#0" expanded="true" />
-            <element signature="e#23265#23266#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -507,10 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7769">
           <caret line="509" column="31" selection-start-line="509" selection-start-column="25" selection-end-line="509" selection-end-column="31" />
-          <folding>
-            <element signature="e#17893#17894#0" expanded="true" />
-            <element signature="e#17932#17933#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -518,24 +553,69 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
           <caret line="49" column="7" lean-forward="true" selection-start-line="48" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
-          <folding>
-            <element signature="e#23211#23212#0" expanded="true" />
-            <element signature="e#23265#23266#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch01/sec02/NumberDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+        <state relative-caret-position="56">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch01/sec03/VariableDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="1159" column="22" selection-start-line="1159" selection-start-column="22" selection-end-line="1159" selection-end-column="22" />
+          <folding>
+            <element signature="e#49482#49483#0" expanded="true" />
+            <element signature="e#49527#49528#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch01/sec04/BigNumberDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch01/sec04/RelationalDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch01/sec04/ArithmeticDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
         </state>
       </provider>
     </entry>
