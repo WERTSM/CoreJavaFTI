@@ -19,9 +19,10 @@ public class ArithmeticDemo {
         System.out.printf("%d %d\n", a[n++], n); 
         n = 0;
         System.out.printf("%d %d\n", a[++n], n);
-        
+
+        System.out.println("----------------------------");
         // Powers and roots
-        
+
         System.out.println(Math.pow(10, 9));
         System.out.println(Math.sqrt(1000000));
         
@@ -37,7 +38,7 @@ public class ArithmeticDemo {
         n = (int) x;
         System.out.println(n); // 3
         
-        n = (int) Math.round(x); 
+        n = (int) Math.round(x);
         System.out.println(n); // 4
         
         System.out.println('J' + 1); // 75
