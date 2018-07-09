@@ -10,21 +10,14 @@ public class NumberDemo {
         // Underscores in literals   
         System.out.println(1_000_000_000); 
         System.out.println(0b1111_0100_0010_0100_0000);
-
-        System.out.println("----------------------------");
-
-        System.out.println((byte)-128);
-
+        
         // Advanced topic: Unsigned quantities
-
-        System.out.println(Byte.toUnsignedInt((byte)-127));
+        System.out.println(Byte.toUnsignedInt((byte )-127));
         
         System.out.println(3.14F); // float literal
         System.out.println(3.14); // double literal
         System.out.println(3.14D); // double literal
         System.out.println(0x1.0p-3); // hex double literal
-
-        System.out.println("----------------------------");
 
         // Infinity and NaN
         System.out.println(1.0 / 0.0); 
@@ -36,15 +29,11 @@ public class NumberDemo {
         System.out.println(0.0 / 0.0 == Double.NaN);
 
         System.out.println(Double.isInfinite(1.0 / 0.0));
-        System.out.println(Double.isInfinite(-1.0 / 0.0));
         System.out.println(Double.isNaN(0.0 / 0.0));
         System.out.println(Double.isFinite(0.0 / 0.0));
-        System.out.println(Double.NEGATIVE_INFINITY + 1);
-
-        System.out.println("----------------------------");
-
+        
         // Roundoff error
-
+        
         System.out.println(2.0 - 1.1);
         
         // Character literals

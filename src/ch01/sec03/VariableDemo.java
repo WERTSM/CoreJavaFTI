@@ -19,7 +19,6 @@ public class VariableDemo {
         final int DAYS_PER_WEEK = 7;
         Weekday startDay = Weekday.MON;
         // The following line would cause an error since count has not been initialized
-        // System.out.println(count);
-        System.out.println(startDay);
+        // System.out.println(count); 
     }
 }
