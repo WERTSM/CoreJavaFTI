@@ -1,6 +1,3 @@
 *.iml
 out
-target
 .idea
-log
-*.log
